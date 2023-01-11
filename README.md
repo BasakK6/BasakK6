@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there! I'm Basak 👋
+
+## 🚀 About Me
+
+I'm a Computer Engineer
+
+- 🌱 I’m currently learning:
+[Flutter](https://flutter.dev)
 
 <!--
 **BasakK6/BasakK6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

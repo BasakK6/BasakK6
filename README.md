@@ -2,10 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Engineer
-
-- 🌱 I’m currently learning:
-[Flutter](https://flutter.dev)
+I'm a MSc. Computer Engineer. I have hands-on experience in developing and deploying Flutter apps, implementing responsive UI/UX designs, integrating APIs, and handling data persistence.
 
 - 📫 How to reach me:
 [my email adress](mailto:dev.basakk6@gmail.com)

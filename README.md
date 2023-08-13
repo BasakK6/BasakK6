@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a MSc. Computer Engineer. I have hands-on experience in developing and deploying Flutter apps, implementing responsive & Adaptive designs, integrating APIs, and handling data persistence.
+I'm a MSc. Computer Engineer. I have hands-on experience in developing and deploying Flutter apps, implementing responsive & adaptive designs, integrating APIs, and handling data persistence.
 
 - 📫 How to reach me:
 [my email adress](mailto:dev.basakk6@gmail.com)

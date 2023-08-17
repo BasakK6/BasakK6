@@ -4,7 +4,25 @@
 
 I'm a MSc. Computer Engineer. I have hands-on experience in developing and deploying Flutter apps, implementing responsive & adaptive designs, integrating APIs, and handling data persistence.
 
-- 📫 How to reach me:
+Some of the Flutter & Dart-related topics I know:
+
+- Lifecycle methods
+- State Management (Vanilla, Riverpod, InheritedWidget, InheritedModel, InheritedNotifier, etc.)
+- Animations (implicit, explicit, hero, sliver, Lottie, rive)
+- Cache (shared preferences, hive, sembast, sqflite, file operations. etc.)
+- Responsive & Adaptive design 
+- Code generation
+- REST API/Firebase/AdMob integration
+- Developing packages & plugins, publishing on pub.dev
+- MVVM, SOLID principles, Linter rules
+- Theme, Material3, widget style customization
+- Localization
+- Test-Driven Development
+- CI/CD (GitHub actions, Fastlane)
+- Publishing & updating apps on Google Play / App Store
+
+
+📫 How to reach me:
 [my email adress](mailto:dev.basakk6@gmail.com)
 
 ## 🔭 My Stats
